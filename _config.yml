@@ -1,0 +1,4 @@
+title: Wonjun Lee
+theme: minima
+plugins:
+  - jekyll-feed
